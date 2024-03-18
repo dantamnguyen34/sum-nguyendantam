@@ -1,6 +1,6 @@
 {
   "name": "sum-nguyendantam",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,8 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
+	"sum-thanhmaihoang":"^1.0.0",
+	"sum-nguyendantam":"^1.0.0",
 	"sum-nguyendantam":"^1.0.0",
 	"sum-luongthuthao":"^1.0.0",
 	"sum-luongbichthao":"^1.0.0",
